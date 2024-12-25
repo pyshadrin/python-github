@@ -1,0 +1,2 @@
+deposit 500
+withdrawal 200
